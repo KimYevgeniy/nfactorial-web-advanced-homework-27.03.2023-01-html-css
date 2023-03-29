@@ -1,0 +1,76 @@
+.container1 {
+    display: grid;
+    grid-template-columns: 50% 50%;
+}
+.container2 {
+    display: grid;
+    grid-template-columns: 95% 5%;
+}
+.container3 {
+    display: grid;
+    grid-template-columns: 5% 90% 5%;
+}
+.container4 {
+    display: grid;
+    grid-template-columns: 95% 5%;
+}
+.container5 {
+    display: grid;
+    grid-template-columns: 100%;
+}
+.container6 {
+    display: grid;
+    grid-template-columns: 47.5% 5% 47.5%;
+}
+.container7 {
+    display: grid;
+    grid-template-columns: 5% 95% ;
+}
+.container8 {
+    display: grid;
+    grid-template-columns: 5% 18.75% 5% 18.75% 5% 18.75% 5% 18.75% 5%;
+}
+.container9 {
+    display: grid;
+    grid-template-columns: 19.2% 1% 19.2% 1% 19.2% 1% 19.2% 1% 19.2%;
+}
+
+.flexbox1 {
+    display: flex;
+    justify-content: center;
+    padding: 5px;
+}
+.flexbox2 {
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 15px;
+}
+.box-red {
+    height: 40px;
+    background-color: red;
+}
+
+.box-red1 {
+    width: 30px;
+    height: 30px;
+    background-color: red;
+}
+.box-green1 {
+    width: 150%;
+    height: 10px;
+    background-color: green;
+}
+
+
+.box-blue {
+    height: 40px;
+    background-color: blue;
+}
+.box-green {
+    height: 40px;
+    background-color: green;
+}
+.box-orange {
+    height: 40px;
+    background-color: orange;
+}
